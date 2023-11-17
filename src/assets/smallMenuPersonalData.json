@@ -1,0 +1,137 @@
+[
+	{
+		"index": 0,
+		"name": "Mobile",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "- Mobile Tariffs",
+				"containes": ["Prepaid", "Control", "Postpaid"]
+			},
+			{
+				"subName": "- Internet",
+				"containes": [
+					"Nitro Mobile Internet",
+					"Nitro mifi",
+					"WE Air 4G+"
+				]
+			}
+		]
+	},
+	{
+		"index": 1,
+		"name": "Home",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "- WE Internet",
+				"containes": ["WE Space", "WE Sonic", "Level Up", "WE Life"]
+			},
+			{
+				"subName": "- Voice Plans",
+				"containes": ["WE Ardy"]
+			},
+			{
+				"subName": "- Prepaid",
+				"containes": ["Marhaba"]
+			}
+		]
+	},
+	{
+		"index": 2,
+		"name": "Services",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "no",
+				"containes": [
+					"Mobile Services",
+					"Balance Services",
+					"Fixed Voice Services",
+					"Fixed Broadband",
+					"International & Roaming",
+					"Entertainment Services",
+					"MNP",
+					"Others Services"
+				]
+			}
+		]
+	},
+	{
+		"index": 3,
+		"name": "Devices",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "no",
+				"containes": [
+					"Routers",
+					"Fixed Landline Phones",
+					"USB Modems",
+					"4G Routers",
+					"Mobile Phones",
+					"Accessories",
+					"All"
+				]
+			}
+		]
+	},
+	{
+		"index": 4,
+		"name": "Promotions",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "no",
+				"containes": [
+					"WE Internet",
+					"Fixed Voice",
+					"Mobile",
+					"Others",
+					"All"
+				]
+			}
+		]
+	},
+	{
+		"index": 5,
+		"name": "Shop",
+		"path": "#"
+	},
+	{
+		"index": 6,
+		"name": "WE Pay",
+		"path": "#"
+	},
+	{
+		"index": 7,
+		"name": "About TE",
+		"path": "#",
+		"subNames": [
+			{
+				"subName": "no",
+				"containes": [
+					"Mission and Vision",
+					"Board of Directors",
+					"Careers",
+					"Media Center"
+				]
+			}
+		]
+	},
+	{
+		"index": 8,
+		"name": "Corporate Sustainability",
+		"path": "#"
+	},
+	{
+		"index": 9,
+		"name": "Investor Relations",
+		"path": "#"
+	},
+	{
+		"index": 10,
+		"name": "CSR",
+		"path": "#"
+	}
+]

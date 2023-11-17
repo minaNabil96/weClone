@@ -1,0 +1,30 @@
+[
+	{
+		"id": "1",
+		"image": "https://www.te.eg/wps/wcm/connect/d4eeaadf-c036-41a1-99e0-d24aa26946f7/watchit-banner.png?MOD=AJPERES&CACHEID=d4eeaadf-c036-41a1-99e0-d24aa26946f7"
+	},
+	{
+		"id": "2",
+		"image": "https://www.te.eg/wps/wcm/connect/095b9302-edf0-485e-8d63-c17a9be2c5f8/Jawwy-banner.png?MOD=AJPERES&CACHEID=095b9302-edf0-485e-8d63-c17a9be2c5f8"
+	},
+	{
+		"id": "3",
+		"image": "https://www.te.eg/images/slide-2.jpg",
+		"title": "Reserve my WE Gold Number"
+	},
+	{
+		"id": "4",
+		"image": "https://www.te.eg/images/slide-2.jpg",
+		"title": "Renew my WE Internet subscription"
+	},
+	{
+		"id": "5",
+		"image": "https://www.te.eg/images/slide-2.jpg",
+		"title": "Pay my Fixed Voice bill"
+	},
+	{
+		"id": "6",
+		"image": "https://www.te.eg/images/slide-2.jpg",
+		"title": "Pay bill / Recharge my Mobile"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"title": "WE Innovate",
+		"text": "Think..Develop..Accelerate",
+		"image": "https://www.te.eg/wps/wcm/connect/481e7561-26df-4499-88cf-6656b1d4447c/1/350X350---EN.png?MOD=AJPERES&CACHEID=481e7561-26df-4499-88cf-6656b1d4447c/1"
+	},
+	{
+		"id": 2,
+		"title": "WE Shops",
+		"text": "Real State Registration Office",
+		"image": "https://www.te.eg/wps/wcm/connect/b68f8d44-0c98-4ff9-82e3-5450524d4fee/305x305---EN.png?MOD=AJPERES&CACHEID=b68f8d44-0c98-4ff9-82e3-5450524d4fee"
+	},
+	{
+		"id": 3,
+		"title": "WE Sports",
+		"text": "\"WE Sports\" is a new service from WE that provides football content covering moment by moment the latest news",
+		"image": "https://www.te.eg/wps/wcm/connect/97259f8f-01d1-4d45-b407-1b001974621c/Optimized-WeSports-800x800---EN.png?MOD=AJPERES&CACHEID=97259f8f-01d1-4d45-b407-1b001974621c"
+	},
+	{
+		"id": 4,
+		"title": "Play & Win",
+		"text": "Now you can participate in WE play and win competition",
+		"image": "https://www.te.eg/wps/wcm/connect/481e7561-26df-4499-88cf-6656b1d4447c/2/Play%26Win-EN+%282%29.jpeg?MOD=AJPERES&CACHEID=481e7561-26df-4499-88cf-6656b1d4447c/2"
+	},
+	{
+		"id": 5,
+		"title": "Tazkarti",
+		"text": "Collect WE Egyptian Premier League Tickets",
+		"image": "https://www.te.eg/wps/wcm/connect/481e7561-26df-4499-88cf-6656b1d4447c/3/350x350---EN+%281%29.png?MOD=AJPERES&CACHEID=481e7561-26df-4499-88cf-6656b1d4447c/3"
+	},
+	{
+		"id": 6,
+		"title": "WE Pay",
+		"text": "Mobile Wallet Service",
+		"image": "https://www.te.eg/wps/wcm/connect/9bddf491-6e22-4833-9258-16dad47da531/wepay_homepage_special_services_en.jpg?MOD=AJPERES&CACHEID=9bddf491-6e22-4833-9258-16dad47da531"
+	},
+	{
+		"id": 7,
+		"title": "WE TV",
+		"text": "Watch your favorite Series, Movies, and programs with no ads",
+		"image": "https://www.te.eg/wps/wcm/connect/481e7561-26df-4499-88cf-6656b1d4447c/4/WeTV-350X350-En.jpg?MOD=AJPERES&CACHEID=481e7561-26df-4499-88cf-6656b1d4447c/4"
+	},
+	{
+		"id": 8,
+		"title": "140 Guide",
+		"text": "Service for telecomegypt customers",
+		"image": "https://www.te.eg/wps/wcm/connect/3a340e7a-64a9-4474-abd6-11a23443e136/140-Daleel-350x350-En.jpg?MOD=AJPERES&CACHEID=3a340e7a-64a9-4474-abd6-11a23443e136"
+	}
+]

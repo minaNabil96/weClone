@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"title": "Fall into ML 2023: HSE University’s Faculty of Computer Science Organises Conference on Machine Learning",
+		"section": "education",
+		"body": "On October 26–28, the HSE Institute of Artificial Intelligence and Digital Sciences will hold a conference titled Fall into ML 2023 with support from the HSE University AI Research Centre. The event is dedicated to promising directions of fundamental AI development.",
+		"image": "https://www.te.eg/wps/wcm/connect/611b1fe0-a836-41a4-ab10-8b41fbae55bb/WE-Friday---Homepage-Banner---1700-x-651_En-min.jpg?MOD=AJPERES&CACHEID=611b1fe0-a836-41a4-ab10-8b41fbae55bb"
+	},
+	{
+		"id": "2",
+		"title": "International Study Tour Experience: Discover HSE University",
+		"body": "Companies that work with large volumes of data, including unstructured ones (texts, video, audio, and images), need qualified personnel capable of searching, processing, and analysing information, finding implicit connections and building complex models that will help the company reach a new level and, of course, increase revenue. At the same time, basic knowledge about the features of big data analysis and the capabilities of technologies used by Data Science specialists is required not only by professionals in this field, but also by business customers, who must, at least to some extent, understand how exactly these technologies and the people who own them are able to help their business, and what can and can’t be expected from them.",
+		"section": "research",
+		"image": "https://www.te.eg/wps/wcm/connect/fe3dcded-cd16-4a52-952c-17f12b8984f1/Home-Banner_1700-x-651-min+%281%29.jpg?MOD=AJPERES&CACHEID=fe3dcded-cd16-4a52-952c-17f12b8984f1"
+	},
+	{
+		"id": "3",
+		"title": "2023 Handbook for International Students",
+		"section": "society",
+		"body": "Maria Petrova, who holds a bachelor’s from HSE University Perm and a master’s from the HSE ICEF programme, is a department head at Sovcombank. In this interview with Success Builder, she explains which qualities a beginner needs to work as a bank analyst, how to pick up leadership skills at the workplace, and why Sovcombank trains its own staff.",
+		"image": "https://www.te.eg/wps/wcm/connect/02694102-e762-4a41-b043-a26d4eec90d9/Homepage-Banner---1700-x-651---EN-2-min.jpg?MOD=AJPERES&CACHEID=02694102-e762-4a41-b043-a26d4eec90d9"
+	},
+	{
+		"id": "4",
+		"title": "2023 Handbook for International Students",
+		"section": "society",
+		"body": "Maria Petrova, who holds a bachelor’s from HSE University Perm and a master’s from the HSE ICEF programme, is a department head at Sovcombank. In this interview with Success Builder, she explains which qualities a beginner needs to work as a bank analyst, how to pick up leadership skills at the workplace, and why Sovcombank trains its own staff.",
+		"image": "https://www.te.eg/wps/wcm/connect/5c1a270d-da89-4afe-bf8c-f2f0ddb70ef4/Home-Banner_1700-x-651-min+%281%29.jpg?MOD=AJPERES&CACHEID=5c1a270d-da89-4afe-bf8c-f2f0ddb70ef4"
+	},
+	{
+		"id": "5",
+		"title": "2023 Handbook for International Students",
+		"section": "society",
+		"body": "Maria Petrova, who holds a bachelor’s from HSE University Perm and a master’s from the HSE ICEF programme, is a department head at Sovcombank. In this interview with Success Builder, she explains which qualities a beginner needs to work as a bank analyst, how to pick up leadership skills at the workplace, and why Sovcombank trains its own staff.",
+		"image": "https://www.te.eg/wps/wcm/connect/57a7bd61-6d1e-44a2-adec-7f7c8082a04e/Home-Banner_1700-x-651-min.jpg?MOD=AJPERES&CACHEID=57a7bd61-6d1e-44a2-adec-7f7c8082a04e"
+	}
+]
